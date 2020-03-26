@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b5f7a1c-de4d-4072-bf94-3b1ea13faff6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W6xwRJHOYW13Y3tYUt5rb4QLhG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DepthSuper-resolution" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\39796\PycharmProjects\DepthCompletion" />
+      <recent name="C:\Users\39796\PycharmProjects\DepthPrediction\Myloss" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.test_sparse">
+    <configuration name="compare_diff_backbone" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DepthPrediction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyUtils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyUtils/compare_diff_backbone.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="compare_sparse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DepthPrediction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyUtils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyUtils/compare_sparse.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="depth2pseudo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DepthPrediction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyUtils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyUtils/depth2pseudo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_random_remove_nyu" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DepthPrediction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_random_remove_nyu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_sparse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DepthPrediction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_sparse.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test_sparse" />
+        <item itemvalue="Python.compare_sparse" />
+        <item itemvalue="Python.compare_diff_backbone" />
+        <item itemvalue="Python.depth2pseudo" />
+        <item itemvalue="Python.test_random_remove_nyu" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b5f7a1c-de4d-4072-bf94-3b1ea13faff6" name="Default Changelist" comment="" />
+      <created>1578484083671</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578484083671</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="736" y="359" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581656482551">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="736" y="359" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1581656482551" />
+    <state x="868" y="235" key="FileChooserDialogImpl" timestamp="1583145266034">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1580883176754" />
+    <state x="868" y="235" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1583145266034" />
+    <state width="2539" height="390" key="GridCell.Tab.0.bottom" timestamp="1583769138754">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1067" height="77" key="GridCell.Tab.0.bottom/0.0.1088.574@0.0.1088.574" timestamp="1583503682315" />
+    <state width="1345" height="148" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580884534504" />
+    <state width="1419" height="329" key="GridCell.Tab.0.bottom/0.0.1440.1039@0.0.1440.1039" timestamp="1581719911642" />
+    <state width="1899" height="250" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579518759920" />
+    <state width="2539" height="390" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1583769138754" />
+    <state width="2539" height="390" key="GridCell.Tab.0.center" timestamp="1583769138753">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1067" height="77" key="GridCell.Tab.0.center/0.0.1088.574@0.0.1088.574" timestamp="1583503682315" />
+    <state width="1345" height="148" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580884534504" />
+    <state width="1419" height="329" key="GridCell.Tab.0.center/0.0.1440.1039@0.0.1440.1039" timestamp="1581719911642" />
+    <state width="1899" height="250" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579518759919" />
+    <state width="2539" height="390" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1583769138753" />
+    <state width="2539" height="390" key="GridCell.Tab.0.left" timestamp="1583769138753">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1067" height="77" key="GridCell.Tab.0.left/0.0.1088.574@0.0.1088.574" timestamp="1583503682314" />
+    <state width="1345" height="148" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580884534504" />
+    <state width="1419" height="329" key="GridCell.Tab.0.left/0.0.1440.1039@0.0.1440.1039" timestamp="1581719911642" />
+    <state width="1899" height="250" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579518759919" />
+    <state width="2539" height="390" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1583769138753" />
+    <state width="2539" height="390" key="GridCell.Tab.0.right" timestamp="1583769138753">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1067" height="77" key="GridCell.Tab.0.right/0.0.1088.574@0.0.1088.574" timestamp="1583503682315" />
+    <state width="1345" height="148" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580884534504" />
+    <state width="1419" height="329" key="GridCell.Tab.0.right/0.0.1440.1039@0.0.1440.1039" timestamp="1581719911642" />
+    <state width="1899" height="250" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579518759920" />
+    <state width="2539" height="390" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1583769138753" />
+    <state width="2539" height="405" key="GridCell.Tab.1.bottom" timestamp="1583765543159">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1345" height="124" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580753194470" />
+    <state width="1899" height="330" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579515869724" />
+    <state width="2539" height="405" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1583765543159" />
+    <state width="2539" height="405" key="GridCell.Tab.1.center" timestamp="1583765543159">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1345" height="124" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1580753194470" />
+    <state width="1899" height="330" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579515869724" />
+    <state width="2539" height="405" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1583765543159" />
+    <state width="2539" height="405" key="GridCell.Tab.1.left" timestamp="1583765543159">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1345" height="124" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1580753194470" />
+    <state width="1899" height="330" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579515869724" />
+    <state width="2539" height="405" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1583765543159" />
+    <state width="2539" height="405" key="GridCell.Tab.1.right" timestamp="1583765543159">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1345" height="124" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1580753194470" />
+    <state width="1899" height="330" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579515869724" />
+    <state width="2539" height="405" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1583765543159" />
+    <state x="1020" y="222" key="SettingsEditor" timestamp="1580968031324">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="765" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578484150712" />
+    <state x="1020" y="222" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1580968031324" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1582544383710">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1582544383710" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MyUtils/SensorData.py</url>
+          <line>99</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/show_disparity.py</url>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MyUtils/rm_mess.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MyUtils/data_rename_inverse.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MyUtils/data_rename_inverse.py</url>
+          <line>82</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MyUtils/generate_test_dataset.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MyUtils/generate_test_dataset.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MyUtils/generate_mask_dataset.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/demo_dataload.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/demo_dataload.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test_nyu.py</url>
+          <line>151</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/generate_train_file_lst.py</url>
+          <line>100</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test_realsense.py</url>
+          <line>138</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MyUtils/mani_sunrgbd.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/dataloader.py</url>
+          <line>192</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MyUtils/show_img.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_mix.py</url>
+          <line>250</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MyUtils/count_nyu_v2.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MyUtils/generate_eval_data.py</url>
+          <line>85</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MyUtils/compare_sparse.py</url>
+          <line>127</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

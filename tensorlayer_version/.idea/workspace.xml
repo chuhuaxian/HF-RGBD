@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="08e82bfe-1512-42c9-bf3d-bf154370880c" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1355246575">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.2" value="6" />
+          <entry key="project.open.time.3" value="8" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="22" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="65" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="65" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="3674" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="3674" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tools/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2596">
+              <caret line="118" selection-start-line="118" selection-end-line="118" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/completion/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2530">
+              <caret line="172" column="66" selection-start-line="172" selection-start-column="66" selection-end-line="172" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/completion/evaluate.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/completion/train_gans.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/completion/train_no_mask.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-457">
+              <caret line="251" selection-start-line="251" selection-end-line="251" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/completion/train.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1145">
+              <caret line="327" column="27" lean-forward="true" selection-start-line="327" selection-start-column="27" selection-end-line="327" selection-end-column="27" />
+              <folding>
+                <element signature="e#42#53#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SR/evaluate.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SR/train.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="617">
+              <caret line="230" column="20" selection-start-line="230" selection-start-column="20" selection-end-line="230" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SR/train_srgans.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6468">
+              <caret line="308" column="70" selection-start-line="308" selection-start-column="70" selection-end-line="308" selection-end-column="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tools/utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1342">
+              <caret line="77" column="4" selection-start-line="77" selection-start-column="4" selection-end-line="77" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>network</find>
+      <find>lr_v</find>
+      <find>t_ima</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/completion/evaluate.py" />
+        <option value="$PROJECT_DIR$/super-resolution/evaluate.py" />
+        <option value="$PROJECT_DIR$/completion/__init__.py" />
+        <option value="$PROJECT_DIR$/tools/config.py" />
+        <option value="$PROJECT_DIR$/super-resolution/config.py" />
+        <option value="$PROJECT_DIR$/super-resolution/checkpoints.py" />
+        <option value="$PROJECT_DIR$/super-resolution/models.py" />
+        <option value="$PROJECT_DIR$/super-resolution/train.py" />
+        <option value="$PROJECT_DIR$/SR/config.py" />
+        <option value="$PROJECT_DIR$/tools/utils.py" />
+        <option value="$PROJECT_DIR$/completion/config.py" />
+        <option value="$PROJECT_DIR$/completion/train_gans.py" />
+        <option value="$PROJECT_DIR$/completion/train_no_mask.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/SR/train_no_mask.py" />
+        <option value="$PROJECT_DIR$/train_minist.py" />
+        <option value="$PROJECT_DIR$/SR/models.py" />
+        <option value="$PROJECT_DIR$/tools/test.py" />
+        <option value="$PROJECT_DIR$/SR/train_srgans.py" />
+        <option value="$PROJECT_DIR$/SR/train.py" />
+        <option value="$PROJECT_DIR$/completion/train.py" />
+        <option value="$PROJECT_DIR$/completion/models.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="130" />
+    <option name="y" value="61" />
+    <option name="width" value="582" />
+    <option name="height" value="588" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="RGBD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RGBD" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RGBD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RGBD" type="462c0819:PsiDirectoryNode" />
+              <item name="completion" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RGBD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RGBD" type="462c0819:PsiDirectoryNode" />
+              <item name="SR" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RGBD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RGBD" type="462c0819:PsiDirectoryNode" />
+              <item name="tools" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="RGBD" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="RGBD" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.train (1)">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RGBD" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tools/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RGBD" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SR" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SR/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RGBD" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/completion" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/completion/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_minist" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RGBD" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_minist.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_srgans" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RGBD" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SR" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SR/train_srgans.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.train" />
+      <item itemvalue="Python.train (1)" />
+      <item itemvalue="Python.train_minist" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.train_srgans" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.train (1)" />
+        <item itemvalue="Python.train_srgans" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.train" />
+        <item itemvalue="Python.train_minist" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08e82bfe-1512-42c9-bf3d-bf154370880c" name="Default" comment="" />
+      <created>1532340583264</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532340583264</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="2575" height="1415" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17408429" />
+      <window_info id="Structure" order="1" weight="0.24973656" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.70090634" visible="true" weight="0.30043384" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.6042296" weight="0.4262473" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Python Console" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.29909366" side_tool="true" weight="0.29791895" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.123111784" />
+      <window_info id="Structure" order="1" weight="0.24973656" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.70090634" visible="true" weight="0.29791895" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.6042296" weight="0.42716318" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Python Console" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.29909366" side_tool="true" visible="true" weight="0.29791895" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/super-resolution/checkpoints.py" />
+    <entry file="file://$PROJECT_DIR$/SR/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/completion/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/conda/conda/envs/tf-py36/Lib/site-packages/tensorlayer/prepro.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="164" selection-start-line="164" selection-end-line="164" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/conda/conda/envs/tf-py36/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="310" selection-start-line="310" selection-end-line="310" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/conda/conda/envs/tf-py36/Lib/site-packages/tensorflow/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/319404507/cv2/cv2/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="994">
+          <caret line="9239" column="66" selection-start-line="9239" selection-start-column="66" selection-end-line="9239" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/conda/conda/envs/tf-py36/Lib/json/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3960">
+          <caret line="182" column="4" selection-start-line="182" selection-start-column="4" selection-end-line="182" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/conda/conda/envs/tf-py36/Lib/site-packages/skimage/measure/_structural_similarity.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/conda/conda/envs/tf-py36/Lib/site-packages/tensorflow/python/ops/array_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56298">
+          <caret line="2583" column="4" selection-start-line="2583" selection-start-column="4" selection-end-line="2583" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/conda/conda/envs/tf-py36/Lib/typing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50754">
+          <caret line="2314" column="8" selection-start-line="2314" selection-start-column="8" selection-end-line="2314" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/conda/conda/envs/tf-py36/Lib/site-packages/tensorflow/python/ops/gen_math_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103092">
+          <caret line="4703" selection-start-line="4703" selection-end-line="4703" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/conda/conda/envs/tf-py36/Lib/site-packages/tensorflow/python/training/saver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38302">
+          <caret line="1780" column="28" selection-start-line="1780" selection-start-column="28" selection-end-line="1780" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/conda/conda/envs/tf-py36/Lib/site-packages/tensorlayer/layers/convolution.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/conda/conda/envs/tf-py36/Lib/site-packages/tensorflow/tools/api/generator/api/image/__init__.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/conda/conda/envs/tf-py36/Lib/site-packages/tensorflow/python/ops/image_ops_impl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34188">
+          <caret line="1576" selection-start-line="1576" selection-end-line="1576" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/conda/conda/envs/tf-py36/Lib/site-packages/cv2/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/319404507/cv2/cv2/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="9206" column="4" selection-start-line="9206" selection-start-column="4" selection-end-line="9206" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/conda/conda/envs/tf-py36/Lib/site-packages/tensorlayer/layers/merge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="76" column="64" lean-forward="true" selection-start-line="76" selection-start-column="64" selection-end-line="76" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/conda/conda/envs/tf-py36/Lib/site-packages/numpy/core/fromnumeric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26994">
+          <caret line="1238" selection-start-line="1238" selection-end-line="1238" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/conda/conda/envs/tf-py36/Lib/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69256">
+          <caret line="3199" column="20" selection-start-line="3199" selection-start-column="20" selection-end-line="3199" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/conda/conda/envs/tf-py36/Lib/site-packages/tensorflow/python/ops/math_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3784">
+          <caret line="201" column="4" selection-start-line="201" selection-start-column="4" selection-end-line="201" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/conda/conda/envs/tf-py36/Lib/site-packages/tensorlayer/layers/normalization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2310">
+          <caret line="114" column="25" selection-start-line="114" selection-start-column="25" selection-end-line="114" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/conda/conda/envs/tf-py36/Lib/site-packages/tensorlayer/decorators/deprecated_alias.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/conda/conda/envs/tf-py36/Lib/site-packages/matplotlib/axes/_axes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116688">
+          <caret line="5348" column="28" selection-start-line="5348" selection-start-column="24" selection-end-line="5348" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/completion/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SR/train_no_mask.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4576">
+          <caret line="223" column="25" selection-start-line="223" selection-start-column="25" selection-end-line="223" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/conda/conda/envs/tf-py36/Lib/site-packages/tensorlayer/layers/pooling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7832">
+          <caret line="362" column="31" selection-start-line="362" selection-start-column="31" selection-end-line="362" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/conda/conda/envs/tf-py36/Lib/site-packages/tensorlayer/layers/core.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/conda/conda/envs/tf-py36/Lib/site-packages/pcl/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SR/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/conda/conda/envs/tf-py36/Lib/site-packages/tensorlayer/layers/convolution/simplified_conv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="628">
+          <caret line="219" column="16" selection-start-line="219" selection-start-column="16" selection-end-line="219" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/conda/conda/envs/tf-py36/Lib/site-packages/tensorlayer/layers/dense/base_dense.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-653">
+          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_minist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="6" selection-start-line="6" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SR/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2596">
+          <caret line="118" selection-start-line="118" selection-end-line="118" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SR/evaluate.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SR/train_srgans.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6468">
+          <caret line="308" column="70" selection-start-line="308" selection-start-column="70" selection-end-line="308" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1342">
+          <caret line="77" column="4" selection-start-line="77" selection-start-column="4" selection-end-line="77" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SR/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="617">
+          <caret line="230" column="20" selection-start-line="230" selection-start-column="20" selection-end-line="230" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/completion/train_no_mask.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-457">
+          <caret line="251" selection-start-line="251" selection-end-line="251" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/completion/evaluate.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/completion/train_gans.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/completion/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1145">
+          <caret line="327" column="27" lean-forward="true" selection-start-line="327" selection-start-column="27" selection-end-line="327" selection-end-column="27" />
+          <folding>
+            <element signature="e#42#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/completion/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2530">
+          <caret line="172" column="66" selection-start-line="172" selection-start-column="66" selection-end-line="172" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
