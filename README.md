@@ -6,4 +6,4 @@ This is the implementation of our paper title 'Fast Generation of High Fidelity 
 
 ## Dataset
 
-Please visit this link(http://www.mae.cuhk.edu.hk/~cwang/Projects/RGBDCompletionCNNDataset.zip) to download the dataset. 
+Please visit this [link](http://www.mae.cuhk.edu.hk/~cwang/Projects/RGBDCompletionCNNDataset.zip) to download the dataset. 
