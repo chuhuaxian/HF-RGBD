@@ -6,7 +6,8 @@ This is the implementation of our paper title 'Fast Generation of High Fidelity 
 
 ## Dataset
 
-Please visit this [link](http://www.mae.cuhk.edu.hk/~cwang/Projects/RGBDCompletionCNNDataset.zip) to download the dataset. 
+Please visit this [link](链接：https://pan.baidu.com/s/1H3QL-C4i_BrRqQMdsx_Cuw) to download the dataset. The extracted code of the dataset is: rbgd (only  4 charaters and no any space).
+
 The pre-trained model can be download [here](https://pan.baidu.com/s/11OSTp4nAKkkyUbAilWpRDQ), and the extraction code is : sbc1 (only 4 charaters and no any space).
 
 
