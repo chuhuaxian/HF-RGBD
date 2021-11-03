@@ -16,9 +16,10 @@ Please cite [our work](https://arxiv.org/abs/2002.05067) if you use our codes or
 
 ```
 @article{xian2020fast,
-  title={Fast Generation of High Fidelity RGB-D Images by Deep-Learning with Adaptive Convolution},
+  title={Fast Generation of High-Fidelity RGB-D Images by Deep Learning With Adaptive Convolution},
   author={Xian, Chuhua and Zhang, Dongjiu and Dai, Chengkai and Wang, Charlie CL},
-  journal={arXiv preprint arXiv:2002.05067},
-  year={2020}
+  journal={IEEE Transactions on Automation Science and Engineering},
+  year={2020},
+  publisher={IEEE}
 }
 ```
